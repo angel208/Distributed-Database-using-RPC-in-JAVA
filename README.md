@@ -1,2 +1,3 @@
-# Distributed-Database-using-RPC-in-JAVA
+# Distributed Database using RPC in JAVA
+
 Simple Distributed Database using RPC in JAVA
